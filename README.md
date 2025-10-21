@@ -26,24 +26,6 @@ The examples in this repository focus on key areas of modern C++ programming:
 | **Algorithms** | Searching, Sorting, Recursion, and basic algorithmic problem-solving. | `dayQ-binary-search` |
 | **Standard Template Library (STL)** | Use of `std::vector`, `std::map`, `std::set`, and generic algorithms. | *Upcoming* |
 
----
-
-## 🚀 How to Compile and Run an Example
-
-To run any of the C++ examples, you'll need a C++ compiler (like **g++**).
-
-1.  **Navigate** to the specific example folder in your terminal:
-    ```bash
-    cd day1-bank-account
-    ```
-2.  **Compile** the C++ file (adjust the filenames as needed):
-    ```bash
-    g++ bank_account.cpp -o bank_app
-    ```
-3.  **Execute** the compiled program:
-    ```bash
-    ./bank_app
-    ```
 
 ---
 
