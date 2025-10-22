@@ -20,10 +20,10 @@ The examples in this repository focus on key areas of modern C++ programming:
 
 | Category | Topics Covered | Example Folders (Illustrative) |
 | :--- | :--- | :--- |
-| **Object-Oriented Programming (OOP)** | Classes, Objects, Encapsulation, Abstraction, Inheritance, Polymorphism. | `day1-bank-account`, `dayN-shapes-inheritance` |
-| **Data Structures** | Arrays, Linked Lists, Stacks, Queues, Trees, Hash Maps. | `day2-linked-list`, `dayM-stack-implementation` |
-| **C++ Fundamentals** | Pointers, References, Memory Management, Input/Output, Error Handling. | `dayP-smart-pointers` |
-| **Algorithms** | Searching, Sorting, Recursion, and basic algorithmic problem-solving. | `dayQ-binary-search` |
+| **Object-Oriented Programming (OOP)** | Classes, Objects, Encapsulation, Abstraction, Inheritance, Polymorphism. | `bank.cpp` |
+| **Data Structures** | Arrays, Linked Lists, Stacks, Queues, Trees, Hash Maps. | `array.cpp` |
+| **C++ Fundamentals** | Pointers, References, Memory Management, Input/Output, Error Handling. | *Upcoming* |
+| **Algorithms** | Searching, Sorting, Recursion, and basic algorithmic problem-solving. | *Upcoming* |
 | **Standard Template Library (STL)** | Use of `std::vector`, `std::map`, `std::set`, and generic algorithms. | *Upcoming* |
 
 
