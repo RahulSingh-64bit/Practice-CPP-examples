@@ -1,6 +1,6 @@
 # Array Operations: Procedural and Data Structure Fundamentals 💻
 
-This C++ code demonstrates core concepts of **Procedural Programming** and basic **Data Structure Operations** using a C-style array. It does **not** utilize Object-Oriented Programming (OOP) principles like Classes or Encapsulation.
+This C++ code demonstrates core concepts of **Procedural Programming** and basic **Data Structure Operations** using a C-style array. 
 
 ---
 
