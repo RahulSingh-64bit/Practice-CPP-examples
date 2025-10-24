@@ -29,6 +29,4 @@ The examples in this repository focus on key areas of modern C++ programming:
 
 ---
 
-## 🤝 Contribution
 
-This repository serves as a personal development log. While I welcome any feedback, feel free to open an **Issue** if you spot any bugs or have suggestions for clearer code implementation.
